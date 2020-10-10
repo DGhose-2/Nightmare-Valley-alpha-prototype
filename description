@@ -1,0 +1,21 @@
+This game is designed to be an enjoyable side-scrolling platformer, with a number of fun features, including moving platforms, ability-enhancing pickups, machine-learning AI enemies, a number of different levels, immersive original designs including a video intro, an eerie soundtrack (from ########), an engaging boss battle, and a combination of no barrier to entry combined with increasingly difficult sections to allow both new gamers and experienced veterans alike to enjoy the game.
+
+
+The game begins with the story of the child who went to sleep like any other night, until a freak storm drops her through the layers of reality into Nightmare Valley, where nightmares are manufactured.
+
+The first level begins with waking up inside the nightmare world. The character pops out of a portal and the player is given some instructions on how to proceed. The level starts as some simple platform hopping (including a slippery vine) before reaching a large platform where the player is informed of the shoot function, ready for later use. The next section of the level involves the introduction of the ‘gravity boots,’ which add the ability for character to temporarily invert their gravity and therefore walk on the ceiling, allowing the player to navigate the next section of the level. After this, there are some moving platforms to tackle, before reaching the end of level portal.
+
+The character exits the portal into level 2 - the arena. Here there are a range of enemy types (including the first AI enemy type based on machine learning trained by the team) spawning frequently from different locations indicated by the red portals, and a mix of vines, moving platforms and stationary platforms to allow the player to fight the enemies whilst occasionally escaping via the platforms when needed. Once the smaller enemies have been cleared out, a boss (The Lord Of Nightmare Valley) will appear. The boss will track the player’s location and shoot at them, whilst also regularly spawning waves of flying AI minions, giving the player the challenge of shooting at the boss whilst also having to be careful of the additional enemies. If the player manages to defeat The Lord Of The Nightmare World, he will drop the golden gravity boots he was protecting, allowing the player to fly up into the arena exit portal, and make their escape.
+
+Upon escape, the player is rewarded with the knowledge that the character has made it back home, and normality is restored.
+
+
+
+A base side-scroller concept was established via http://programarcadegames.com/index.php?chapter=example_code_platformer&lang=en 
+On top of which we created and implemented various functions, designs, and also changed some of the base functionality to better suit our game.
+
+Level 3 (escape maze: upward-scrolling action requiring gravity and anti-gravity, and navigating a maze while escaping, avoiding and defeating three varieties of AI-programmed enemies) was not part of the earliest prototype.
+
+
+
+© Deep Ghose, Elias Ruiz Monserrat, Robin Blackwell, Daniel Roushannafas, 2019
